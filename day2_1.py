@@ -1,3 +1,5 @@
+# variable casting
+
 initial_number = input("Enter a 2 digit number\n")
 
 first_int = int(initial_number[0])
